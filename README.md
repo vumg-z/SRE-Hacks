@@ -10,4 +10,4 @@
 
 ## DevOps Roadmap
 
-![DevOps Roadmap](./devops/images/devops.png)
+![DevOps Roadmap](src/devops/README.md)
