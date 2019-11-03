@@ -10,6 +10,11 @@
     - [A quick guide to writing scripts using the bash shell](http://www.panix.com/~elflord/unix/bash-tute.html)
     - [Catching user input](http://tldp.org/LDP/Bash-Beginners-Guide/html/sect_08_02.html)
 
+
+### Teoria
+- [Operating System Concepts](src/OS/README.md)
+
 ## DevOps Roadmap
 
 [DevOps Roadmap](src/devops/README.md)
+
