@@ -10,4 +10,4 @@
 
 ## DevOps Roadmap
 
-![DevOps Roadmap](src/devops/README.md)
+[DevOps Roadmap](src/devops/README.md)
