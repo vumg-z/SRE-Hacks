@@ -7,6 +7,7 @@
 - [Jenkins](https://jenkins.io/doc/)
 - [Webservers](https://es.wikipedia.org/wiki/Servidor_web)
 - [Linux](https://www.google.com/search?client=firefox-b-d&q=linux)
+    - [A quick guide to writing scripts using the bash shell](http://www.panix.com/~elflord/unix/bash-tute.html)
 
 ## DevOps Roadmap
 
