@@ -1,6 +1,6 @@
 # SRE-Hacks
 
-Hola, este repositorio puedes encontrar nuestras soluciones a los problemas del "SRE-Hacks", es un proyecto en proceso a si que sientete libre de contribuir al proyecto.
+Hola, este repositorio puedes encontrar nuestras soluciones a los problemas del "SRE-Hacks", es un proyecto en proceso, sientete libre de contribuir al proyecto.
 
 ### Ver problemas
 
